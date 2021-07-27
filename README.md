@@ -2,6 +2,8 @@
 
 MOODetail is a Single Page Application using JavaScript on the frontend and a Rails API backend. Use this app to detail prompts you notice to specific mood states. 
 
+<img src="MOODetail_screenshot.png" alt="MOODetail screenshot" width="65%"/>
+
 ## Installation
 
 For the Rails API, run the following code: 
